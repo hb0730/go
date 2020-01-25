@@ -18,7 +18,7 @@ func main() {
 	a, b = b, a
 	fmt.Printf("a = %d,b=%d \n", a, b)
 
-	//
+	//_匿名函数
 	a, _ = test()
 
 	fmt.Printf("a = %d", a)
