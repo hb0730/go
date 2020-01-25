@@ -10,6 +10,9 @@ func test() (a, b int) {
 	return 10, 20
 }
 
+/**
+匿名函数
+*/
 func main() {
 	// 多重赋值
 	a, b := 10, 20

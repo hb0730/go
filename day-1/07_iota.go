@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+iota枚举
+*/
 func main() {
 	// iota 每一行++
 	const (

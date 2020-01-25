@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+常量
+*/
 func main() {
 	// 常量
 	const name int = 10

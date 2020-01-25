@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+自动推导类型
+*/
 func main() {
 	a := 10
 	b := 20

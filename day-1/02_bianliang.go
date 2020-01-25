@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+变量
+*/
 func main() {
 	var a int
 	fmt.Println("a = ", a)

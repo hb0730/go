@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+/**
+多函数
+多常量
+*/
 func main() {
 	var (
 		a int

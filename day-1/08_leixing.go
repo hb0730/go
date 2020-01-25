@@ -4,6 +4,9 @@ import (
 	"fmt"
 )
 
+/**
+类型
+*/
 func main() {
 	// 布尔类型
 	boolTest()
